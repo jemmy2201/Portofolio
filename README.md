@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on a fullstack Laravel + Vue.js project
 - 🌱 I’m learning n8n workflows, Coolify deployment, and Spatie Laravel Permission
-- 🛠️ Tech Stack: Laravel, Vue.js, MySQL, Docker, Ubuntu, Coolify
+- 🛠️ Tech Stack: Laravel, Vue.js, MySQL,Oracle, Docker, Ubuntu, Coolify,VirtualBox
 - 💬 Ask me about anything Laravel, Vue, self-hosting, or web optimization
 - ⚡ Fun fact: I love automating things with low-code tools and API workflows
 
@@ -16,9 +16,9 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🔐 **JWE Secure API** | JWT + JWE Laravel-Vue integration for secure data exchange | Laravel, Vue.js, web-token/jwt-core | [Repo](https://github.com/Jemmy22/jwe-laravel-vue) |
-| 📊 **Stock Dashboard** | Realtime inventory tracker with elegant charts | Laravel, Vue, Chart.js | [Repo](https://github.com/Jemmy22/stock-dashboard) |
-| 🤖 **n8n WhatsApp Bot** | Flow-based automation bot with WhatsApp & Coolify | n8n, Docker, Coolify | [Repo](https://github.com/Jemmy22/n8n-wa-bot) |
+| 🔐 **EP Portal BP BATAM** | Government organization for task orders and correspondence | php native, sprint java,oracle, linux | [Url](https://ep.bpbatam.go.id/login.php) |
+| 📊 **Land Management System BP BAtam** | Land Management in Government | Laravel, Vue, ubuntu,oracle | [Url](https://lms.bpbatam.go.id/portal/) |
+| 🤖 **Union OF SECURITY EMPLOYEES** | take care of security certificate permits like security guards in Singapore | Laravel, Docker, Coolify,Mysql,linux | [Url](https://use.imaging.com.sg/) |
 
 ---
 
@@ -32,5 +32,8 @@
 ### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,docker,ubuntu,git,php,mysql,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,docker,ubuntu,git,php,mysql,js,html,css,cloudflare,python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
 </p>
+
+
