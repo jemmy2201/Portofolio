@@ -25,6 +25,7 @@
 ### 📫 Let's Connect
 - 📘 [Facebook](https://www.facebook.com/jemmyrolish.ginting/)
 - 📧 jemmyrolish07@gmail.com
+- 📱 WhatsApp: [081267932960](https://wa.me/6281267932960)
 - 💼 [LinkedIn](https://linkedin.com/in/jemmy-rolish-ginting-550272128)
 
 ---
