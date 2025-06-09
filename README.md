@@ -19,11 +19,11 @@
 | 🔐 **EP Portal BP BATAM** | Government organization for task orders and correspondence | php native, sprint java,oracle, linux | [Url](https://ep.bpbatam.go.id/login.php) |
 | 📊 **Land Management System BP BAtam** | Land Management in Government | Laravel, Vue, ubuntu,oracle | [Url](https://lms.bpbatam.go.id/portal/) |
 | 🤖 **Union OF SECURITY EMPLOYEES** | take care of security certificate permits like security guards in Singapore | Laravel, Docker, Coolify,Mysql,linux | [Url](https://use.imaging.com.sg/) |
-
+| 🤖 **OPTION STRANGLERS** | Showing investment data in America | Laravel, Docker, Coolify,cloudfare,Mysql,linux | [Url](https://osp_2025.imaging.com.sg/login) |
 ---
 
 ### 📫 Let's Connect
-- 🌐 [jemmy.my.id](https://jemmy.my.id)
+- 📘 [Facebook](https://www.facebook.com/jemmyrolish.ginting/)
 - 📧 jemmyrolish07@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/jemmy-rolish-ginting-550272128)
 
